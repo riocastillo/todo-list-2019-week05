@@ -3,8 +3,8 @@
 ## To-do List 
 <p></p>
 This is a simple project where users can input list items, cross them out when completed, be updated on how many list items are left to complete, and clear the entire list and start from scrach. 
-
-**Link to project:**
+<p></p>
+**Link to project: https://rios-to-do-list.netlify.app
 
 ## How It's Made:
 
